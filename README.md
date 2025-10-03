@@ -2,8 +2,7 @@
 
 In a very basic way
 
-
-
+<br>
 LC Oct 2025
 
 
@@ -16,6 +15,17 @@ LC Oct 2025
   </figcaption>
 </figure>
 
+
+## Table of Contents
+
+- [Authenticating on Github](#authenticating-on-github)
+- [Github basic actions](#github-basic-actions)
+- [Adding a `.gitignore`](#adding-a-gitignore)
+- [Collaborators vs Contributors paradigms](#collaborators-vs-contributors-paradigms)
+- [Fork and create a dev branch](#fork-and-create-a-dev-branch)
+- [Pull requests](#pull-requests)
+- [Dealing with (small) conflicts](#dealing-with-small-conflicts)
+- [Conclusion](#conclusion)
 
 
 
